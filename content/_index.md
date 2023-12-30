@@ -56,7 +56,7 @@ sections:
           date_start: '2023-01-20'
           date_end: '2022-08-30'
           description: |2-
-              * **Supervisor:** Dr. Pengfei Wei (https://jechenlab.com/)
+              * **Supervisor:** Dr. Pengfei Wei (https://www.researchgate.net/profile/Pengfei-Wei-4)
               * **Research Focus:** Inferring the relationship between neural activity and episodic behavior under the influence of sepsis.
 
     
