@@ -158,7 +158,7 @@ sections:
       columns: '2'
   - block: tag_cloud
     content:
-      title: Popular Topics
+      title: Topics
     design:
       columns: '2'
   - block: markdown
