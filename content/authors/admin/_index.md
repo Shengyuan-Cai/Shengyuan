@@ -80,5 +80,7 @@ email: ''
 highlight_name: true
 ---
 
-Alice Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Hi! My name is Shengyuan Cai. I am a postgraduate student at Imperial College London supervised by Prof. Simon R. Schultz.
+Before that, I did my bachelors at school of science in electrical and information engineering, ChongXin Colledge (Innovation Key Class), Shandong University. Please see my Linkedin to know more.
+My current research interests are neurobehavior, brain development, and representation learning, etc.
 {style="text-align: justify;"}
