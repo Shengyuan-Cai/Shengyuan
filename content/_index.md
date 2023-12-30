@@ -29,7 +29,7 @@ sections:
         - title: Master of Research
           company: Imperial College London
           company_url: 'https://www.imperial.ac.uk/neurotechnology/'
-          company_logo: imperial
+          company_logo: imperial.png
           location: London, United Kingdom
           date_start: '2023-09-30'
           description: |2-
@@ -40,7 +40,7 @@ sections:
         - title: Research Assistant
           company: Southern University of Science and Technology
           company_url: 'https://www.sustech.edu.cn'
-          company_logo: sustech
+          company_logo: sustech.jpeg
           location: Shenzhen, China
           date_start: '2022-02-09'
           date_end: '2023-09-15'
@@ -51,7 +51,7 @@ sections:
         - title: Undergraduate Research Assistant
           company: Chinese Academy of Sciences - Shenzhen Institute of Advanced Technology
           company_url: 'http://english.siat.cas.cn/'
-          company_logo: SIAT
+          company_logo: SIAT.jpeg
           location: Shenzhen, China
           date_start: '2023-01-20'
           date_end: '2022-08-30'
@@ -63,7 +63,7 @@ sections:
         - title: Undergraduate Research Assistant
           company: Lehigh university
           company_url: 'http://yuzhangresearch.weebly.com/'
-          company_logo: Lehigh
+          company_logo: Lehigh.jpeg
           location: Bethlehem, PA, United States
           date_start: '2021-08-10'
           date_end: '2021-03-10'
@@ -74,7 +74,7 @@ sections:
         - title: Undergraduate
           company: Shandong university
           company_url: 'https://brain.sdu.edu.cn/en/About/Introduction.htm'
-          company_logo: sdu
+          company_logo: sdujpeg
           location: Jinan, Shandong, China
           date_start: '2022-06-10'
           date_end: '2018-09-10'
