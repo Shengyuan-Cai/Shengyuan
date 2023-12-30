@@ -32,7 +32,6 @@ sections:
           company_logo: imperial
           location: London, United Kingdom
           date_start: '2023-09-30'
-          date_end: '2024-09-30'
           description: |2-
               * **Major:** Neurotechnology
               * **Academic Supervisor:** Dr. Simon Schultz
@@ -43,24 +42,44 @@ sections:
           company_url: 'https://www.sustech.edu.cn'
           company_logo: sustech
           location: Shenzhen, China
-          date_start: '2022-01-09'
+          date_start: '2022-02-09'
           date_end: '2023-09-15'
           description: |2-
-              * **Main Subject:** Neuroinformatics
-              * **Courses:** Clinical Neuroscience; Comparative Behavioural Neuroscience; Computational Vision; Models of Computation; Primates Origins of Human Sociality, Cognition, and Mind 
-              * **GPA:** 5.3 / 6
-    
+              * **Main Subject:** Finding effective connectivity in the non-linear information flow of asynchronous fMRI data, Analyzing brain heterogenous development to detect functional emergence in preterms and terms
+
         - title: Undergraduate Research Assistant
-          company: Athinoula A. Martinos Center for Biomedical Imaging, Harvard Medical School
-          company_url: 'https://www.martinos.org/'
-          company_logo: Martinos
-          location: Charlestown, Unites States
-          date_start: '2023-07-05'
-          date_end: '2023-12-20'
+          company: Chinese Academy of Sciences - Shenzhen Institute of Advanced Technology
+          company_url: 'https://brain.sdu.edu.cn/en/ChiNor_Brain_Research_Centre.htm'
+          company_logo: sdu
+          location: Jinan, Shandong, China
+          date_start: '2022-06-10'
+          date_end: '2018-09-10'
           description: |2-
               * **Supervisor:** Dr. Jingyuan Chen (https://jechenlab.com/)
               * **Research Focus:** Human Cerebral Cortex Organization Estimated by Functional PET-FDG "Metabolic Connectivity"
-
+    
+        - title: Undergraduate Research Assistant
+          company: Lehigh university
+          company_url: 'http://yuzhangresearch.weebly.com/'
+          company_logo: Lehigh
+          location: Bethlehem, PA, United States
+          date_start: '2021-08-10'
+          date_end: '2021-03-10'
+          description: |2-
+              * **Supervisor:** Dr. Yu Zhang  (https://engineering.lehigh.edu/faculty/yu-zhang)
+              * **Research Focus:** Implementation of brain-computer interface algorithm with different distraction paradigms
+    
+        - title: Undergraduate
+          company: Shandong university
+          company_url: 'https://brain.sdu.edu.cn/en/About/Introduction.htm'
+          company_logo: sdu
+          location: Jinan, Shandong, China
+          date_start: '2022-06-10'
+          date_end: '2018-09-10'
+          description: |2-
+              * **Major:** Electrical and Information Engineering, Innovation Key Class
+              * **Academic Supervisor:** Dr. Qiang Wu
+              * **Relevant Projects:** Graph-theoretic analysis of memory encoding and recall with application to dementia.
     design:
       columns: '2'
   - block: portfolio
@@ -70,13 +89,8 @@ sections:
       filters:
         folders:
           - project
-      # Default filter index (e.g. 0 corresponds to the first `filter_button` instance below).
       default_button_index: 0
-      # Filter toolbar (optional).
-      # Add or remove as many filters (`filter_button` instances) as you like.
-      # To show all items, set `tag` to "*".
-      # To filter by a specific tag, set `tag` to an existing tag name.
-      # To remove the toolbar, delete the entire `filter_button` block
+
       buttons:
         - name: All
           tag: '*'
