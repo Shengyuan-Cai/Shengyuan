@@ -1,34 +1,29 @@
 ---
-# Display name
 title: Shengyuan Cai 蔡盛源
 
-# Full name (for SEO)
 first_name: Shengyuan
 last_name: Cai
 
-# Status emoji
 status:
   icon: ☕️
-
-# Is this the primary user of the site?
 superuser: true
 
-# Role/position/tagline
 role: Postgraduate
 
-# Organizations/Affiliations to show in About widget
 organizations:
   - name: Imperial College London
     url: https://www.imperial.ac.uk/neurotechnology/
 
-# Short bio (displayed in user profile at end of posts)
-bio: My current research interests are neurobehavior, brain development, and representation learning, etc.
 
-# Interests to show in About widget
+bio: 
+My current research interests are neurobehavior, brain development, and representation learning, etc.
+
+# Interests to show in the About widget
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Neurobehavior
+  - Representation learning
+  - Spatial working memory
+  - Brain development
 
 # Education to show in About widget
 education:
