@@ -80,7 +80,7 @@ sections:
           description: |2-
               * **Major:** Electrical and Information Engineering, Innovation Key Class
               * **Academic Supervisor:** Dr. Qiang Wu (https://brain.sdu.edu.cn/en/info/1090/1115.htm)
-              * **GPA:** 87/100, Ranking 2 / 22
+              * **GPA:** 87/100
               * **Designed a graph convolutional neural network with the self-attention mechanism for graph feature analysis
               * Outstanding Bachelor thesis (top 1%)
     design:
