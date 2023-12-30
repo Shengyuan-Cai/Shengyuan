@@ -129,7 +129,7 @@ sections:
       view: showcase
       # For Showcase view, flip alternate rows?
       flip_alt_rows: false
-   - block: tag_cloud
+  - block: tag_cloud
     id: topics
     content:
       title: Topics
