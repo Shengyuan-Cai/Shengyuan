@@ -45,17 +45,18 @@ sections:
           date_start: '2022-02-09'
           date_end: '2023-09-15'
           description: |2-
-              * **Main Subject:** Finding effective connectivity in the non-linear information flow of asynchronous fMRI data, Analyzing brain heterogenous development to detect functional emergence in preterms and terms
+              * **Supervisor:** Dr. Quanying Liu (https://faculty.sustech.edu.cn/?tagid=liuqy&lang=en)
+              * **Research Focus:** Finding effective connectivity in the non-linear information flow of asynchronous fMRI data, Analyzing brain heterogenous development to detect functional emergence in preterms and terms
 
         - title: Undergraduate Research Assistant
           company: Chinese Academy of Sciences - Shenzhen Institute of Advanced Technology
-          company_url: 'https://brain.sdu.edu.cn/en/ChiNor_Brain_Research_Centre.htm'
-          company_logo: sdu
-          location: Jinan, Shandong, China
-          date_start: '2022-06-10'
-          date_end: '2018-09-10'
+          company_url: 'http://english.siat.cas.cn/'
+          company_logo: SIAT
+          location: Shenzhen University Town, Shenzhen, China
+          date_start: '2023-01-20'
+          date_end: '2022-08-30'
           description: |2-
-              * **Supervisor:** Dr. Jingyuan Chen (https://jechenlab.com/)
+              * **Supervisor:** Dr. Pengfei Wei (https://jechenlab.com/)
               * **Research Focus:** Human Cerebral Cortex Organization Estimated by Functional PET-FDG "Metabolic Connectivity"
     
         - title: Undergraduate Research Assistant
@@ -78,8 +79,10 @@ sections:
           date_end: '2018-09-10'
           description: |2-
               * **Major:** Electrical and Information Engineering, Innovation Key Class
-              * **Academic Supervisor:** Dr. Qiang Wu
-              * **Relevant Projects:** Graph-theoretic analysis of memory encoding and recall with application to dementia.
+              * **Academic Supervisor:** Dr. Qiang Wu (https://brain.sdu.edu.cn/en/info/1090/1115.htm)
+              * **GPA:** 87/100, Ranking 2 / 22
+              * **Designed a graph convolutional neural network with the self-attention mechanism for graph feature analysis
+              * Outstanding Bachelor thesis (top 1%)
     design:
       columns: '2'
   - block: portfolio
