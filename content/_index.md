@@ -45,7 +45,7 @@ sections:
           date_start: '2022-02-09'
           date_end: '2023-09-15'
           description: |2-
-              * **Supervisor:** Dr. Quanying Liu (https://faculty.sustech.edu.cn/?tagid=liuqy&lang=en)
+              * **Supervisor:** Dr. Quanying Liu
               * **Research Focus:** Finding effective connectivity in the non-linear information flow of asynchronous fMRI data, Analyzing brain heterogenous development to detect functional emergence in preterms and terms
 
         - title: Undergraduate Research Assistant
@@ -56,7 +56,7 @@ sections:
           date_start: '2023-01-20'
           date_end: '2022-08-30'
           description: |2-
-              * **Supervisor:** Dr. Pengfei Wei (https://www.researchgate.net/profile/Pengfei-Wei-4)
+              * **Supervisor:** Dr. Pengfei Wei
               * **Research Focus:** Inferring the relationship between neural activity and episodic behavior under the influence of sepsis.
         - title: Undergraduate Research Assistant
           company: Lehigh university
@@ -66,7 +66,7 @@ sections:
           date_start: '2021-08-10'
           date_end: '2021-03-10'
           description: |2-
-              * **Supervisor:** Dr. Yu Zhang  (https://engineering.lehigh.edu/faculty/yu-zhang)
+              * **Supervisor:** Dr. Yu Zhang
               * **Research Focus:** Implementation of brain-computer interface algorithm with different distraction paradigms
         - title: Undergraduate
           company: Shandong university
@@ -77,7 +77,7 @@ sections:
           date_end: '2018-09-10'
           description: |2-
               * **Major:** Electrical and Information Engineering, Innovation Key Class
-              * **Academic Supervisor:** Dr. Qiang Wu (https://brain.sdu.edu.cn/en/info/1090/1115.htm)
+              * **Academic Supervisor:** Dr. Qiang Wu
               * **GPA:** 87/100
               * **Designed a graph convolutional neural network with the self-attention mechanism for graph feature analysis
               * Outstanding Bachelor thesis (top 1%)
