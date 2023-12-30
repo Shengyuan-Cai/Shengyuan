@@ -52,12 +52,13 @@ sections:
           company: Chinese Academy of Sciences - Shenzhen Institute of Advanced Technology
           company_url: 'http://english.siat.cas.cn/'
           company_logo: SIAT
-          location: Shenzhen University Town, Shenzhen, China
+          location: Shenzhen, China
           date_start: '2023-01-20'
           date_end: '2022-08-30'
           description: |2-
               * **Supervisor:** Dr. Pengfei Wei (https://jechenlab.com/)
-              * **Research Focus:** Human Cerebral Cortex Organization Estimated by Functional PET-FDG "Metabolic Connectivity"
+              * **Research Focus:** Inferring the relationship between neural activity and episodic behavior under the influence of sepsis.
+
     
         - title: Undergraduate Research Assistant
           company: Lehigh university
