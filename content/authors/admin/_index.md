@@ -14,10 +14,6 @@ organizations:
   - name: Imperial College London
     url: https://www.imperial.ac.uk/neurotechnology/
 
-
-bio: 
-My current research interests are neurobehavior, brain development, and representation learning, etc.
-
 # Interests to show in the About widget
 interests:
   - Neurobehavior
