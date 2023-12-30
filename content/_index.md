@@ -58,8 +58,6 @@ sections:
           description: |2-
               * **Supervisor:** Dr. Pengfei Wei (https://www.researchgate.net/profile/Pengfei-Wei-4)
               * **Research Focus:** Inferring the relationship between neural activity and episodic behavior under the influence of sepsis.
-
-    
         - title: Undergraduate Research Assistant
           company: Lehigh university
           company_url: 'http://yuzhangresearch.weebly.com/'
@@ -70,7 +68,6 @@ sections:
           description: |2-
               * **Supervisor:** Dr. Yu Zhang  (https://engineering.lehigh.edu/faculty/yu-zhang)
               * **Research Focus:** Implementation of brain-computer interface algorithm with different distraction paradigms
-    
         - title: Undergraduate
           company: Shandong university
           company_url: 'https://brain.sdu.edu.cn/en/About/Introduction.htm'
