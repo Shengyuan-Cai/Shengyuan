@@ -53,8 +53,8 @@ sections:
           company_url: 'http://english.siat.cas.cn/'
           company_logo: SIAT
           location: Shenzhen, China
-          date_start: '2023-01-20'
-          date_end: '2022-08-30'
+          date_start: '2022-08-30'
+          date_end: '2023-01-20'
           description: |2-
               * **Supervisor:** Dr. Pengfei Wei
               * **Research Focus:** Inferring the relationship between neural activity and episodic behavior under the influence of sepsis.
@@ -63,8 +63,8 @@ sections:
           company_url: 'http://yuzhangresearch.weebly.com/'
           company_logo: Lehigh
           location: Bethlehem, PA, United States
-          date_start: '2021-08-10'
-          date_end: '2021-03-10'
+          date_start: '2021-03-10'
+          date_end: '2021-08-10'
           description: |2-
               * **Supervisor:** Dr. Yu Zhang
               * **Research Focus:** Implementation of brain-computer interface algorithm with different distraction paradigms
@@ -73,8 +73,8 @@ sections:
           company_url: 'https://brain.sdu.edu.cn/en/About/Introduction.htm'
           company_logo: sdu
           location: Jinan, Shandong, China
-          date_start: '2022-06-10'
-          date_end: '2018-09-10'
+          date_start: '2018-09-10'
+          date_end: '2022-06-10'
           description: |2-
               * **Major:** Electrical and Information Engineering, Innovation Key Class
               * **Academic Supervisor:** Dr. Qiang Wu
