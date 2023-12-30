@@ -25,27 +25,42 @@ sections:
       #   Leave `date_end` empty if it's your current employer.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
-        - title: CEO
-          company: GenCoin
-          company_url: ''
-          company_logo: org-gc
-          location: California
-          date_start: '2021-01-01'
-          date_end: ''
+    
+        - title: Master of Research
+          company: Imperial College London
+          company_url: 'https://www.imperial.ac.uk/neurotechnology/'
+          company_logo: imperial
+          location: London, United Kingdom
+          date_start: '2023-09-30'
+          date_end: '2024-09-30'
           description: |2-
-              Responsibilities include:
+              * **Major:** Neurotechnology
+              * **Academic Supervisor:** Dr. Simon Schultz
+              * **Relevant Projects:** Graph-theoretic analysis of memory encoding and recall with application to dementia.
+    
+        - title: Research Assistant
+          company: Southern University of Science and Technology
+          company_url: 'https://www.sustech.edu.cn'
+          company_logo: sustech
+          location: Shenzhen, China
+          date_start: '2022-01-09'
+          date_end: '2023-09-15'
+          description: |2-
+              * **Main Subject:** Neuroinformatics
+              * **Courses:** Clinical Neuroscience; Comparative Behavioural Neuroscience; Computational Vision; Models of Computation; Primates Origins of Human Sociality, Cognition, and Mind 
+              * **GPA:** 5.3 / 6
+    
+        - title: Undergraduate Research Assistant
+          company: Athinoula A. Martinos Center for Biomedical Imaging, Harvard Medical School
+          company_url: 'https://www.martinos.org/'
+          company_logo: Martinos
+          location: Charlestown, Unites States
+          date_start: '2023-07-05'
+          date_end: '2023-12-20'
+          description: |2-
+              * **Supervisor:** Dr. Jingyuan Chen (https://jechenlab.com/)
+              * **Research Focus:** Human Cerebral Cortex Organization Estimated by Functional PET-FDG "Metabolic Connectivity"
 
-              * Analysing
-              * Modelling
-              * Deploying
-        - title: Professor of Semiconductor Physics
-          company: University X
-          company_url: ''
-          company_logo: org-x
-          location: California
-          date_start: '2016-01-01'
-          date_end: '2020-12-31'
-          description: Taught electronic engineering and researched semiconductor physics.
     design:
       columns: '2'
   - block: portfolio
