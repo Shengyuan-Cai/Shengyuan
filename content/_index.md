@@ -71,7 +71,7 @@ sections:
         - title: Undergraduate
           company: Shandong university
           company_url: 'https://brain.sdu.edu.cn/en/About/Introduction.htm'
-          company_logo: sdujpeg
+          company_logo: sdu.jpeg
           location: Jinan, Shandong, China
           date_start: '2022-06-10'
           date_end: '2018-09-10'
