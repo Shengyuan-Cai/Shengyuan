@@ -19,11 +19,11 @@ main:
   - name: Topics
     url: '#topics'
     weight: 50
-  - name: Accomplishments
-    url: '#accomplishments'
-    weight: 60
   - name: Posts
     url: '#posts'
+    weight: 60
+  - name: Accomplishments
+    url: '#accomplishments'
     weight: 70
   - name: Gallery
     url: '#gallery'
