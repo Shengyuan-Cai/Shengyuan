@@ -4,7 +4,7 @@
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
 title: Shengyuan's Website # Website name
-baseURL: 'https://example.com/' # Website URL
+baseURL: 'https://shengyuan-cai.com/' # Website URL
 
 ############################
 ## LANGUAGE
