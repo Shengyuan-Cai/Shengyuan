@@ -26,8 +26,6 @@ publication_short: ""
 
 abstract: In this study, we propose a graph sequence neural network (GSNN) to accurately decode patterns of motor imagery from electroencephalograms (EEGs) in the presence of distractions. GSNN aims to build subgraphs by exploiting biological topologies among brain regions to capture local and global relationships across characteristic channels. Specifically, we model the similarity between pairwise EEG channels by the adjacency matrix of the graph sequence neural network. In addition, we propose a node domain attention selection network in which the connection and sparsity of the adjacency matrix can be adjusted dynamically according to the EEG signals acquired from different subjects. Extensive experiments on the public Berlin-distraction dataset show that in most experimental settings, our model performs considerably better than the state-of-the-art models. Moreover, comparative experiments indicate that our proposed node domain attention selection network plays a crucial role in improving the sensibility and adaptability of the GSNN model. The results show that the GSNN algorithm obtained superior classification accuracy (The average value of Recall, Precision, and F-score were 80.44%, 81.07% and 80.54%) compared to the state-of-the-art models. Finally, in the process of extracting the intermediate results, the relationships between important brain regions and channels were revealed to different influences in distraction themes.
 
-# Summary. An optional shortened abstract.
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 
 tags:
 - Representation learning
