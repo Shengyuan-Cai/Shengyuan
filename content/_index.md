@@ -185,6 +185,9 @@ sections:
           icon_pack: fas
           name: Zoom Me
           link: 'https://imperial-ac-uk.zoom.us/j/98536867915?pwd=RTVWc2NLSEZ0RmQya1E5ZFN0M2dmZz09'
+      coordinates:
+        latitude: '37.4275'
+        longitude: '-122.1697'
       # Automatically link email and phone or display as text?
       autolink: false
     design:
