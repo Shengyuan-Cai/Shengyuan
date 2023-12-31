@@ -40,7 +40,7 @@ url_pdf: https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9795322
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 image:
-  filename: paper1.gif
+  filename: paper1.png
   focal_point: Smart
   preview_only: false
 
