@@ -1,5 +1,6 @@
 ---
-title: "An example journal article"
+title: "Motor imagery decoding in the presence of distraction using graph
+sequence neural networks."
 authors:
 - admin
 - Robert Ford
