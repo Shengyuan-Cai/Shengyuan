@@ -186,8 +186,8 @@ sections:
           name: Zoom Me
           link: 'https://imperial-ac-uk.zoom.us/j/98536867915?pwd=RTVWc2NLSEZ0RmQya1E5ZFN0M2dmZz09'
       coordinates:
-        latitude: '37.4275'
-        longitude: '-122.1697'
+        latitude: '51.4988'
+        longitude: '-0.176894'
       # Automatically link email and phone or display as text?
       autolink: false
     design:
