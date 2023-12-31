@@ -21,6 +21,12 @@ interests:
   - Spatial working memory
   - Brain development
 
+education:
+  courses:
+    - course: BSc in Intelligent Medical Engineering
+      institution: Southern University of Science and Technology
+      year: ""
+
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
