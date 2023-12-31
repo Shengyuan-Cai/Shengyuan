@@ -79,7 +79,7 @@ sections:
               * **Major:** Electrical and Information Engineering, Innovation Key Class
               * **Academic Supervisor:** Dr. Qiang Wu
               * **GPA:** 87/100
-              * **Designed a graph convolutional neural network with the self-attention mechanism for graph feature analysis
+              * Designed a graph convolutional neural network with the self-attention mechanism for graph feature analysis
               * Outstanding Bachelor thesis (top 1%)
     design:
       columns: '2'
