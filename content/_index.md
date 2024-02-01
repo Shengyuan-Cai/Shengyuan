@@ -11,77 +11,6 @@ sections:
       title: Biography
       # Choose a user profile to display (a folder name within `content/authors/`)
       username: admin
-  - block: experience
-    id: experience
-    content:
-      title: Experience
-      # Date format for experience
-      #   Refer to https://wowchemy.com/docs/customization/#date-format
-      date_format: Jan 2006
-      # Experiences.
-      #   Add/remove as many `experience` items below as you like.
-      #   Required fields are `title`, `company`, and `date_start`.
-      #   Leave `date_end` empty if it's your current employer.
-      #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
-      items:
-    
-        - title: Master of Research
-          company: Imperial College London
-          company_url: 'https://www.imperial.ac.uk/neurotechnology/'
-          company_logo: imperial
-          location: London, United Kingdom
-          date_start: '2023-09-30'
-          description: |2-
-              * **Major:** Neurotechnology
-              * **Academic Supervisor:** Dr. Simon Schultz
-              * **Relevant Projects:** Graph-theoretic analysis of memory encoding and recall with application to dementia.
-    
-        - title: Research Assistant
-          company: Southern University of Science and Technology
-          company_url: 'https://www.sustech.edu.cn'
-          company_logo: sustech
-          location: Shenzhen, China
-          date_start: '2022-02-09'
-          date_end: '2023-09-15'
-          description: |2-
-              * **Supervisor:** Dr. Quanying Liu
-              * **Research Focus:** Finding effective connectivity in the non-linear information flow of asynchronous fMRI data, Analyzing brain heterogenous development to detect functional emergence in preterms and terms
-
-        - title: Undergraduate Research Assistant
-          company: Chinese Academy of Sciences - Shenzhen Institute of Advanced Technology
-          company_url: 'http://english.siat.cas.cn/'
-          company_logo: SIAT
-          location: Shenzhen, China
-          date_start: '2022-08-30'
-          date_end: '2023-01-20'
-          description: |2-
-              * **Supervisor:** Dr. Pengfei Wei
-              * **Research Focus:** Inferring the relationship between neural activity and episodic behavior under the influence of sepsis.
-        - title: Undergraduate Research Assistant
-          company: Lehigh university
-          company_url: 'http://yuzhangresearch.weebly.com/'
-          company_logo: Lehigh
-          location: Bethlehem, PA, United States
-          date_start: '2021-03-10'
-          date_end: '2021-08-10'
-          description: |2-
-              * **Supervisor:** Dr. Yu Zhang
-              * **Research Focus:** Implementation of brain-computer interface algorithm with different distraction paradigms
-        - title: Undergraduate
-          company: Shandong university
-          company_url: 'https://brain.sdu.edu.cn/en/About/Introduction.htm'
-          company_logo: sdu
-          location: Jinan, Shandong, China
-          date_start: '2018-09-10'
-          date_end: '2022-06-10'
-          description: |2-
-              * **Major:** Electrical and Information Engineering, Innovation Key Class
-              * **Academic Supervisor:** Dr. Qiang Wu
-              * **GPA:** 87/100
-              * Designed a graph convolutional neural network with the self-attention mechanism for graph feature analysis
-              * Outstanding Bachelor thesis (top 1%)
-    design:
-      columns: '2'
   - block: portfolio
     id: projects
     content:
@@ -159,6 +88,77 @@ sections:
 
       items:
         
+    design:
+      columns: '2'
+  - block: experience
+    id: experience
+    content:
+      title: Experience
+      # Date format for experience
+      #   Refer to https://wowchemy.com/docs/customization/#date-format
+      date_format: Jan 2006
+      # Experiences.
+      #   Add/remove as many `experience` items below as you like.
+      #   Required fields are `title`, `company`, and `date_start`.
+      #   Leave `date_end` empty if it's your current employer.
+      #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
+      items:
+    
+        - title: Master of Research
+          company: Imperial College London
+          company_url: 'https://www.imperial.ac.uk/neurotechnology/'
+          company_logo: imperial
+          location: London, United Kingdom
+          date_start: '2023-09-30'
+          description: |2-
+              * **Major:** Neurotechnology
+              * **Academic Supervisor:** Dr. Simon Schultz
+              * **Relevant Projects:** Graph-theoretic analysis of memory encoding and recall with application to dementia.
+    
+        - title: Research Assistant
+          company: Southern University of Science and Technology
+          company_url: 'https://www.sustech.edu.cn'
+          company_logo: sustech
+          location: Shenzhen, China
+          date_start: '2022-02-09'
+          date_end: '2023-09-15'
+          description: |2-
+              * **Supervisor:** Dr. Quanying Liu
+              * **Research Focus:** Finding effective connectivity in the non-linear information flow of asynchronous fMRI data, Analyzing brain heterogenous development to detect functional emergence in preterms and terms
+
+        - title: Undergraduate Research Assistant
+          company: Chinese Academy of Sciences - Shenzhen Institute of Advanced Technology
+          company_url: 'http://english.siat.cas.cn/'
+          company_logo: SIAT
+          location: Shenzhen, China
+          date_start: '2022-08-30'
+          date_end: '2023-01-20'
+          description: |2-
+              * **Supervisor:** Dr. Pengfei Wei
+              * **Research Focus:** Inferring the relationship between neural activity and episodic behavior under the influence of sepsis.
+        - title: Undergraduate Research Assistant
+          company: Lehigh university
+          company_url: 'http://yuzhangresearch.weebly.com/'
+          company_logo: Lehigh
+          location: Bethlehem, PA, United States
+          date_start: '2021-03-10'
+          date_end: '2021-08-10'
+          description: |2-
+              * **Supervisor:** Dr. Yu Zhang
+              * **Research Focus:** Implementation of brain-computer interface algorithm with different distraction paradigms
+        - title: Undergraduate
+          company: Shandong university
+          company_url: 'https://brain.sdu.edu.cn/en/About/Introduction.htm'
+          company_logo: sdu
+          location: Jinan, Shandong, China
+          date_start: '2018-09-10'
+          date_end: '2022-06-10'
+          description: |2-
+              * **Major:** Electrical and Information Engineering, Innovation Key Class
+              * **Academic Supervisor:** Dr. Qiang Wu
+              * **GPA:** 87/100
+              * Designed a graph convolutional neural network with the self-attention mechanism for graph feature analysis
+              * Outstanding Bachelor thesis (top 1%)
     design:
       columns: '2'
   - block: markdown
