@@ -23,10 +23,14 @@ interests:
 
 education:
   courses:
-    - course: BSc in Intelligent Medical Engineering
-      institution: Southern University of Science and Technology
-      year: ""
+    - course: BSc in Electrical and Information Engineering, Innovation Key Class
+      institution: Shandong university
+      year: 2018 - 2022
+    - course: BSc in Electrical and Information Engineering, Innovation Key Class
+      institution: Shandong university
+      year: 2018 - 2022
 
+  
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
