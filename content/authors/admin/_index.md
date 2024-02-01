@@ -23,11 +23,11 @@ interests:
 
 education:
   courses:
+    - course: Mres of Neurotechnology
+      institution: Imperial College London
+      year: 2023 - 2024
     - course: BSc in Electrical and Information Engineering, Innovation Key Class
-      institution: Shandong university
-      year: 2018 - 2022
-    - course: BSc in Electrical and Information Engineering, Innovation Key Class
-      institution: Shandong university
+      institution: Shandong University
       year: 2018 - 2022
 
   
