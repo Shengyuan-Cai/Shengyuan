@@ -193,6 +193,6 @@ sections:
     design:
       columns: '2'
 <div>
-  <a href="https://clustrmaps.com/site/1byzn"  title="Visit tracker"><img src="//www.clustrmaps.com/map_v2.png?d=8zJNKLTm-1pC475z0pDwPfUGFuxpkDhWdFOPhSYHHn4&cl=ffffff" /></a>
+  <!--<a href="https://clustrmaps.com/site/1byzn"  title="Visit tracker"><img src="//www.clustrmaps.com/map_v2.png?d=8zJNKLTm-1pC475z0pDwPfUGFuxpkDhWdFOPhSYHHn4&cl=ffffff" /></a>-->
 </div>
 ---
