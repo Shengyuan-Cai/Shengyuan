@@ -159,7 +159,7 @@ sections:
               * **Academic Supervisor:** Dr. Qiang Wu
               * **GPA:** 87/100
               * Designed a graph convolutional neural network with the self-attention mechanism for graph feature analysis
-              * Outstanding Bachelor thesis (top 1%)
+              * Outstanding bachelor thesis (top 1%)
     design:
       columns: '2'
   - block: markdown
