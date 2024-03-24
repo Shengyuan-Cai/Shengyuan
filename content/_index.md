@@ -9,7 +9,7 @@ sections:
     id: about
     content:
       title: About me
-      # # Choose a user profile to display (a folder name within `content/authors/`)
+      # Choose a user profile to display (a folder name within `content/authors/`)
       username: admin
   - block: portfolio
     id: projects
@@ -82,7 +82,7 @@ sections:
   #- block: accomplishments
     #id: accomplishments
     #content:
-      # Note: `&shy;` is used to add a 'soft' hyphen in a long heading.
+      ## Note: `&shy;` is used to add a 'soft' hyphen in a long heading.
       #title: 'Accomplish&shy;ments'
       #subtitle:
       #date_format: Jan 2006
