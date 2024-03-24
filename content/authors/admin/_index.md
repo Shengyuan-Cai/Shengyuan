@@ -66,7 +66,7 @@ social:
 highlight_name: true
 ---
 
-Hi! My name is Shengyuan Cai. I am a postgraduate student at Imperial College London supervised by Prof. Simon R. Schultz.
-Before that, I did my bachelor's at the School of Electrical and Information Engineering, ChongXin Colledge (Innovation Key Class), Shandong University. Please see my LinkedIn to know more.
-My current research interests are neurobehavior, brain development, and representation learning, etc.
+Hi! My name is Shengyuan Cai (board game enthusiast 📔🧮, tea person🍵). I am a postgraduate student at Imperial College London supervised by Prof. Simon R. Schultz.
+Before that, I did my bachelor's at the School of Electrical and Information Engineering, ChongXin Colledge (Innovation Key Class), Shandong University. 
+My current research interests are neurobehavior, brain development, and representation learning, etc. Feel free to talk with me about everything!
 {style="text-align: justify;"}
