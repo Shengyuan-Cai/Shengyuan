@@ -79,18 +79,18 @@ sections:
       view: compact
       columns: '2'
     
-  /*- block: accomplishments
-    id: accomplishments
-    content:
+  #- block: accomplishments
+    #id: accomplishments
+    #content:
       # Note: `&shy;` is used to add a 'soft' hyphen in a long heading.
-      title: 'Accomplish&shy;ments'
-      subtitle:
-      date_format: Jan 2006
+      #title: 'Accomplish&shy;ments'
+      #subtitle:
+      #date_format: Jan 2006
 
-      items:
+      #items:
         
-    design:
-      columns: '2'*/
+    #design:
+      #columns: '2'
   - block: experience
     id: experience
     content:
