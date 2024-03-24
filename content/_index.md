@@ -192,4 +192,7 @@ sections:
       autolink: false
     design:
       columns: '2'
+<div>
+  <script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=8zJNKLTm-1pC475z0pDwPfUGFuxpkDhWdFOPhSYHHn4&cl=ffffff&w=a"></script>
+</div>
 ---
