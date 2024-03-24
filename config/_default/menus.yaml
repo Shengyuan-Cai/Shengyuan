@@ -22,9 +22,9 @@ main:
   - name: Posts
     url: '#posts'
     weight: 60
-  - name: Accomplishments
-    url: '#accomplishments'
-    weight: 70
+  #- name: Accomplishments
+   # url: '#accomplishments'
+    #weight: 70
   - name: Gallery
     url: '#gallery'
     weight: 80
