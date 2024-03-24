@@ -1,5 +1,5 @@
 ---
-title: Shengyuan Cai 蔡盛源
+#title: Shengyuan Cai 蔡盛源
 first_name: Shengyuan
 last_name: Cai
 avatar_filename: avatar.jpg
@@ -7,11 +7,11 @@ status:
   icon: ☕️
 superuser: true
 
-role: Postgraduate
+#role: Postgraduate
 
-organizations:
-  - name: Imperial College London
-    url: https://www.imperial.ac.uk/neurotechnology/
+#organizations:
+  #- name: Imperial College London
+    #url: https://www.imperial.ac.uk/neurotechnology/
 
 # Interests to show in the About widget
 interests:
