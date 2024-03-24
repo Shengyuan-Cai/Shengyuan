@@ -192,4 +192,5 @@ sections:
       autolink: false
     design:
       columns: '2'
+    <a href="https://clustrmaps.com/site/1byzn"  title="Visit tracker"><img src="//www.clustrmaps.com/map_v2.png?d=8zJNKLTm-1pC475z0pDwPfUGFuxpkDhWdFOPhSYHHn4&cl=ffffff" /></a>
 ---
