@@ -67,6 +67,6 @@ highlight_name: true
 ---
 
 Hi! My name is Shengyuan Cai (board game enthusiast 📔🧮, tea person🍵). I am a postgraduate student at Imperial College London supervised by Prof. Simon R. Schultz.
-Before that, I did my bachelor's at the ChongXin College with an undergraduate research fellowship, Shandong University. 
+Before that, I did my bachelor's at ChongXin College with an undergraduate research fellowship, Shandong University. 
 My current research interests are neurobehavior, brain development, and representation learning, etc. Feel free to talk with me about everything!
 {style="text-align: justify;"}
