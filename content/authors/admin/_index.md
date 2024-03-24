@@ -25,7 +25,7 @@ education:
     - course: Mres of Neurotechnology
       institution: Imperial College London
       year: 2023 - 2024
-    - course: BSc in Electrical and Information Engineering, Innovation Key Class
+    - course: BSc in Electrical and Information Engineering
       institution: Shandong University
       year: 2018 - 2022
 
