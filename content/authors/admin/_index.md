@@ -1,7 +1,5 @@
 ---
-weight: 45
 title: Shengyuan Cai 蔡盛源
-weight: 45
 first_name: Shengyuan
 last_name: Cai
 avatar_filename: avatar.jpg
