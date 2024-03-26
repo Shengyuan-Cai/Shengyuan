@@ -7,11 +7,11 @@ status:
   icon: ☕️
 superuser: true
 
-#role: Postgraduate
+role: Anything worth doing is worth overdoing.#Postgraduate
 
-organizations:
-  - name: Imperial College London
-    url: https://www.imperial.ac.uk/neurotechnology/
+#organizations:
+  #- name: Imperial College London
+   #url: https://www.imperial.ac.uk/neurotechnology/
 
 # Interests to show in the About widget
 interests:
