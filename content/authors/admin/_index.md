@@ -7,7 +7,8 @@ status:
   icon: ☕️
 superuser: true
 
-role: Anything worth doing is worth overdoing.#Postgraduate
+role: Anything worth doing is worth overdoing.
+#Postgraduate
 
 #organizations:
   #- name: Imperial College London
