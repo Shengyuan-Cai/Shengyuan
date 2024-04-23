@@ -33,7 +33,7 @@ sections:
       view: showcase
       # For Showcase view, flip alternate rows?
       flip_alt_rows: false
-  - block: news
+  - block: collection
     id: news
     content:
       title: News
