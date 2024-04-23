@@ -37,8 +37,8 @@ sections:
     id: news
     content:
       title: News
-      text: Add any **markdown** formatted content here - text, images, videos, galleries - and even HTML code!  Add any **markdown** formatted content here - text, images, videos, galleries - and even HTML cod  Add any **markdown** formatted content here - text, images, videos, galleries - and even HTML code!
-
+      text: Add any **markdown** formatted content here - text, images, videos, galleries - and even HTML code!
+      text: Add any **markdown** formatted content here - text, images, videos, galleries - and even HTML cod  
       filters:
         folders: 
           - News
