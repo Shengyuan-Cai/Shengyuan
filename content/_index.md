@@ -18,7 +18,7 @@ sections:
       title: News
       text: Add any **markdown** formatted content here - text, images, videos, galleries - and even HTML code!
             <br><br>
-            Add any **markdown** formatted content here - text, images, videos, galleries - and even HTML code!
+            Add any **markdown** formatted content here - text, images, videos, galleries - and even HTML code![conference](uploads/NPI-poster-20240405.pdf)
       filters:
         folders: 
           - News
