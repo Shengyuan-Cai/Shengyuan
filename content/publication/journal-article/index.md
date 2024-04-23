@@ -3,7 +3,7 @@ title: "Motor imagery decoding in the presence of distraction using graph
 sequence neural networks"
 authors:
 - Shengyuan Cai
-- Haoran Li
+# - Haoran Li
 - Qiang Wu
 - Ju Liu
 - Yu Zhang
