@@ -66,7 +66,7 @@ social:
 highlight_name: true
 ---
 
-Hi! I am a postgraduate student at Imperial College London supervised by Prof. Simon R. Schultz.
-Before that, I did my bachelor's from Chongxin College with an undergraduate research fellowship, Shandong University (SDU). 
+Hi! I am a postgraduate student at Imperial College London supervised by [Prof. Simon R. Schultz](https://scholar.google.com/citations?user=OGhN4WkAAAAJ&hl=en&oi=ao).
+Before that, I did my bachelor's from Chongxin College with an undergraduate research fellowship, Shandong University (SDU), advised by [Prof. Qiang Wu](https://faculty.sdu.edu.cn/qiangwu/en/index.htm) and [Prof. Yu Zhang](https://scholar.google.com/citations?user=oDrTEi0AAAAJ&hl=zh-CN). 
 My current research interests are neurobehavior, brain development, and representation learning, etc. Feel free to talk with me about everything (board game enthusiast 📔🧮, tea person🍵)!
 {style="text-align: justify;"}
