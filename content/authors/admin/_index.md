@@ -23,7 +23,7 @@ interests:
 
 education:
   courses:
-    - course: Mres of Neurotechnology
+    - course: MRes of Neurotechnology
       institution: Imperial College London
       year: 2023 - 2024
     - course: BSc in Electrical and Information Engineering
