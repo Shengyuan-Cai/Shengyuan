@@ -18,7 +18,7 @@ role: Anything worth doing is worth overdoing.
 interests:
   - Neurobehavior
   - Representation learning
-  - Spatial working memory
+  - Neural dynamics
   - Brain development
 
 education:
