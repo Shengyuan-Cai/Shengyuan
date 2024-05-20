@@ -67,7 +67,6 @@ highlight_name: true
 ---
 
 Hi! I am a postgraduate student at Imperial College London supervised by [Prof. Simon R. Schultz](https://scholar.google.com/citations?user=OGhN4WkAAAAJ&hl=en&oi=ao).
-Before that,  I joined the lab of [Prof. Quanying Liu](https://scholar.google.ch/citations?hl=en&user=UpP9hJ8AAAAJ&view_op=list_works&sortby=pubdate) at SUSTech as
-a post-baccalaureate student and the lab of [Prof. Pengfei Wei](http://bcbdi.siat.ac.cn/index.php/member/showMember/nid/92.shtml) at Shenzhen Institute of Advanced Technology as a research assistent. I did my bachelor's from Chongxin College with an undergraduate research fellowship, Shandong University (SDU). 
-My current research interests are neurobehavior, brain development, and representation learning, etc. Feel free to talk with me about everything (board game enthusiast 📔🧮, tea person🍵)!
+Before that,  I joined the lab of [Prof. Quanying Liu](https://scholar.google.ch/citations?hl=en&user=UpP9hJ8AAAAJ&view_op=list_works&sortby=pubdate) at SUSTech as a post-baccalaureate student and the lab of [Prof. Pengfei Wei](http://bcbdi.siat.ac.cn/index.php/member/showMember/nid/92.shtml) at Shenzhen Institute of Advanced Technology as a research assistant. I did my bachelor's from Chongxin College with an undergraduate research fellowship, Shandong University (SDU), and collaborated with [Prof. Yu Zhang] (https://scholar.google.com/citations?user=oDrTEi0AAAAJ&hl=zh-CN). 
+My current research interests are neurobehavior, brain development, and representation learning. Feel free to talk with me about everything (board game enthusiast 📔🧮, tea person🍵)!
 {style="text-align: justify;"}
