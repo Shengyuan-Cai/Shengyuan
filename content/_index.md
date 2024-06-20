@@ -17,8 +17,7 @@ sections:
     content:
       title: News
       text: 
-            link: uploads/resume.pdf
-
+            [Download my resume](uploads/resume.pdf)
       filters:
         folders: 
           - News
