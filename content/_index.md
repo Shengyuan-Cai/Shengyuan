@@ -17,7 +17,7 @@ sections:
     content:
       title: News
       text: |-
-        [Download my resume](uploads/resume.pdf)
+        28-06-2024 I will be presenting my [poster](uploads/Shengyuan%20Poster.pdf) at the upcoming neurotechnology symposium.
       filters:
         folders: 
           - News
