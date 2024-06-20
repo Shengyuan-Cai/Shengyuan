@@ -16,7 +16,8 @@ sections:
     id: news
     content:
       title: News
-      text: 
+      text: |-
+        [Download my resume](uploads/resume.pdf)
       filters:
         folders: 
           - News
