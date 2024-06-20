@@ -17,7 +17,7 @@ sections:
     content:
       title: News
       text: 
-            <br><br>
+            link: uploads/resume.pdf
 
       filters:
         folders: 
