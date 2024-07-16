@@ -17,15 +17,15 @@ sections:
     content:
       title: News
       text: |-
-        12-07-2024  Project: [Matching_graphs_spatial_constraints](https://www.logml.ai/projects/Anna-Calissano.html). LOGML Summer School, London Geometry and Machine Learning
+        12-07-2024 | Project: [Matching_graphs_spatial_constraints](https://www.logml.ai/projects/Anna-Calissano.html). LOGML Summer School, London Geometry and Machine Learning
     
-        28-06-2024 I will be presenting my [poster](uploads/Shengyuan%20Poster.pdf) at the neurotechnology symposium, Imperial College London.
+        28-06-2024 | I will be presenting my [poster](uploads/Shengyuan%20Poster.pdf) at the neurotechnology symposium, Imperial College London.
     
-        10-09-2021, I received financial support from [National Training Programs of Innovation and Entrepreneurship](http://gjcxcy.bjtu.edu.cn/NewLXItemListForStudentDetail.aspx?ItemNo=862572&year=2021&type=student&IsLXItem=0/), which inspired me to continue to carry out my research!
+        10-09-2021 | I received financial support from [National Training Programs of Innovation and Entrepreneurship](http://gjcxcy.bjtu.edu.cn/NewLXItemListForStudentDetail.aspx?ItemNo=862572&year=2021&type=student&IsLXItem=0/), which inspired me to continue to carry out my research!
     
-        11-07-2021, I attended [Neuromatch](https://portal.neuromatchacademy.org/certificate/85beff50-f5f0-477a-ab22-ab3fd0b57288), very happy to learn computational neuroscience with my friends!
+        11-07-2021 | I attended [Neuromatch](https://portal.neuromatchacademy.org/certificate/85beff50-f5f0-477a-ab22-ab3fd0b57288), very happy to learn computational neuroscience with my friends!
     
-        02-07-2020, I attended the summer semester of [Peking University](https://www.oir.pku.edu.cn/summerschool/) and learned FPGA design based on the RISC-V framework.
+        02-07-2020 | I attended the summer semester of [Peking University](https://www.oir.pku.edu.cn/summerschool/) and learned FPGA design based on the RISC-V framework.
     design:
       columns: '2'
     
