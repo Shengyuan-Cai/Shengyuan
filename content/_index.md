@@ -12,7 +12,7 @@ sections:
       # Choose a user profile to display (a folder name within `content/authors/`)
       username: admin
   
-  - block: collection1
+  - block: collection
     id: news
     content:
       title: News
@@ -32,12 +32,11 @@ sections:
     design:
       columns: '2'
     
-  - block: collection2
+  - block: collection
     id: publications
     content:
-      title: Publications
-      text: |-
-
+      #title: Publications
+      #text: |-
       filters:
         folders:
           - publication
