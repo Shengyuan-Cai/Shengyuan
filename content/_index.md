@@ -18,7 +18,7 @@ sections:
       title: News
       filters:
         folders:
-          - news  # Assuming news items are stored in a 'news' folder
+          - news
       text: |-
         12-07-2024 | Project: [Matching_graphs_spatial_constraints](https://www.logml.ai/projects/Anna-Calissano.html). LOGML Summer School, London Geometry and Machine Learning
     
