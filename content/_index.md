@@ -35,8 +35,8 @@ sections:
   - block: collection
     id: publications
     content:
-      #title: Publications
-      #text: |-
+      title: Publications
+      text: |-
       filters:
         folders:
           - publication
