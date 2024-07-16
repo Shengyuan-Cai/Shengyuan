@@ -16,6 +16,11 @@ sections:
     id: news
     content:
       title: News
+      filters:
+        folders:
+          - news  # Assuming news items are stored in a 'news' folder
+        exclude_featured: true  # Exclude featured items if they're being used for publications
+      count: 5
       text: |-
         12-07-2024 | Project: [Matching_graphs_spatial_constraints](https://www.logml.ai/projects/Anna-Calissano.html). LOGML Summer School, London Geometry and Machine Learning
     
