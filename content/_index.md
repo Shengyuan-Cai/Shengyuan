@@ -30,7 +30,7 @@ sections:
     
         02-07-2020 | I attended the summer semester of [Peking University](https://www.oir.pku.edu.cn/summerschool/) and learned FPGA design based on the RISC-V framework.
     design:
-      columns: '4'
+      columns: '2'
     
   - block: collection
     id: publications
@@ -41,7 +41,7 @@ sections:
         folders:
           - publication
     design:
-      columns: '4'
+      columns: '2'
       view: citation
     
   - block: portfolio
