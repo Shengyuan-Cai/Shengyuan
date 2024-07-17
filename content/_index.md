@@ -40,7 +40,6 @@ sections:
       filters:
         folders:
           - publication
-        featured_only: true
     design:
       columns: '4'
       view: citation
