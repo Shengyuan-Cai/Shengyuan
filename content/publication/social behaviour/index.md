@@ -41,7 +41,9 @@ abstract: The quantification of animal social behaviour is an essential step to 
 
 
 tags:
-- Representation learning, Neuroscience, Neurobehaviour
+- Representation learning
+- Neuroscience
+- Neurobehaviour
 featured: false
 
 
